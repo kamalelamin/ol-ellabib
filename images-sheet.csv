@@ -1,0 +1,25 @@
+﻿#,القسم في الصفحة,الصورة,اسم الملف (حطه في المسار ده بالظبط),فين مكتوب في clinic-config.js,المقاس المناسب,الحالة,ملاحظات
+1,الهيدر (فوق على الشمال),لوجو OL - الوضع الغامق,assets/images/logos/ol-dark.png,clinic.logo.dark,PNG شفاف,موجودة ✅,
+2,الهيدر (فوق على الشمال),لوجو OL - الوضع الفاتح,assets/images/logos/ol-light.png,clinic.logo.light,PNG شفاف,موجودة ✅,
+3,البنر الرئيسي (القوس) - فوق,لوجو OL - غامق,assets/images/logos/ol-dark.png,clinic.brands (البلوك 1) ← dark,PNG شفاف,موجودة ✅,
+4,البنر الرئيسي (القوس) - فوق,لوجو OL - فاتح,assets/images/logos/ol-light.png,clinic.brands (البلوك 1) ← light,PNG شفاف,موجودة ✅,
+5,البنر الرئيسي (القوس) - تحت شمال,لوجو EVY - غامق,assets/images/logos/evy-dark.png,clinic.brands (البلوك 2) ← dark,PNG شفاف,موجودة ✅,
+6,البنر الرئيسي (القوس) - تحت شمال,لوجو EVY - فاتح,assets/images/logos/evy-light.png,clinic.brands (البلوك 2) ← light,PNG شفاف,موجودة ✅,
+7,البنر الرئيسي (القوس) - تحت يمين,لوجو Dr. Nour - غامق,assets/images/logos/nour-dark.png,clinic.brands (البلوك 3) ← dark,PNG شفاف,موجودة ✅,
+8,البنر الرئيسي (القوس) - تحت يمين,لوجو Dr. Nour - فاتح,assets/images/logos/nour-light.png,clinic.brands (البلوك 3) ← light,PNG شفاف,موجودة ✅,
+9,البنر الرئيسي,الصورة الكبيرة في الخلفية (اختياري),assets/images/hero.jpg,hero.image,1920×1080 (عرضي),ناقصة ❌,من غيرها البنر بيعتمد على التوهج الذهبي والقوس
+10,عن العيادة (About),صورة الكارت اللي على شكل قوس,assets/images/about.jpg,about.sideImage,800×1000 (طولي),ناقصة ❌,بتظهر باهتة ورا الجملة
+11,لماذا نحن (Why Us),الصورة المربعة,assets/images/why.jpg,why.image,800×800 (مربع),ناقصة ❌,
+12,جولة في العيادة (Clinic Tour),صورة 1 - الاستقبال (أكبر صورة),assets/images/clinic/clinic-1.jpg,tour.items (البلوك 1),1600×1100 (عرضي),ناقصة ❌,حط الملف بالاسم ده وهيظهر لوحده
+13,جولة في العيادة (Clinic Tour),صورة 2 - عيادة الأسنان,assets/images/clinic/clinic-2.jpg,tour.items (البلوك 2),1600×1100 (عرضي),ناقصة ❌,حط الملف بالاسم ده وهيظهر لوحده
+14,جولة في العيادة (Clinic Tour),صورة 3 - غرفة العلاج,assets/images/clinic/clinic-3.jpg,tour.items (البلوك 3),1600×1100 (عرضي),ناقصة ❌,حط الملف بالاسم ده وهيظهر لوحده
+15,جولة في العيادة (Clinic Tour),صورة 4 - صالة الانتظار,assets/images/clinic/clinic-4.jpg,tour.items (البلوك 4),1600×1100 (عرضي),ناقصة ❌,حط الملف بالاسم ده وهيظهر لوحده
+16,جولة في العيادة (Clinic Tour),صورة 5 - غرفة الليزر والبشرة,assets/images/clinic/clinic-5.jpg,tour.items (البلوك 5),1600×1100 (عرضي),ناقصة ❌,حط الملف بالاسم ده وهيظهر لوحده
+17,جولة في العيادة (Clinic Tour),صورة 6 - وحدة التعقيم,assets/images/clinic/clinic-6.jpg,tour.items (البلوك 6),1600×1100 (عرضي),ناقصة ❌,"عاوز صور أكتر؟ clinic-7.jpg وهكذا + سطر جديد في tour.items"
+18,فريقنا (Meet Our Team),صورة المالك,assets/images/team/owner.jpg,doctors.items (البلوك 1),600×750 (طولي),ناقصة ❌,حط الملف بالاسم ده وهيظهر لوحده
+19,فريقنا (Meet Our Team),د. أمنية اللبيب,assets/images/team/omnia-ellabib.jpg,doctors.items (البلوك 2),600×750 (طولي),ناقصة ❌,حط الملف بالاسم ده وهيظهر لوحده
+20,فريقنا (Meet Our Team),د. نور مصطفى,assets/images/team/nour-moustafa.jpg,doctors.items (البلوك 3),600×750 (طولي),ناقصة ❌,حط الملف بالاسم ده وهيظهر لوحده
+21,فريقنا (Meet Our Team),طبيب 4,assets/images/team/doctor-4.jpg,doctors.items (البلوك 4),600×750 (طولي),ناقصة ❌,لو غيرت اسم الملف غيّره في الكونفج كمان
+22,فريقنا (Meet Our Team),طبيب 5,assets/images/team/doctor-5.jpg,doctors.items (البلوك 5),600×750 (طولي),ناقصة ❌,لو غيرت اسم الملف غيّره في الكونفج كمان
+23,المعرض (Gallery),كارت الأسنان,assets/images/gallery-dental.jpg,gallery.items (البلوك 1),1200×800 (عرضي),ناقصة ❌,بتكبر لما الزائر يدوس عليها
+24,المعرض (Gallery),كارت البشرة,assets/images/gallery-skin.jpg,gallery.items (البلوك 2),1200×800 (عرضي),ناقصة ❌,بتكبر لما الزائر يدوس عليها
